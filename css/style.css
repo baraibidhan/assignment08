@@ -1,0 +1,308 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+/* header part start */ 
+header{
+	width: 100%;
+	float: left;
+	background:snow;
+}
+ .one h1{
+	text-align: center;
+	margin-top: 30px ;
+	font-family: 'Teko', sans-serif;
+	font-size: 50px;
+
+}
+.one h2{
+	text-align: center;
+		font-family: 'Teko', sans-serif;
+	font-size: 25px;
+	color: red;
+}
+
+
+
+
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display:inline-block;
+	text-align: center;
+	margin-top: 30px;
+	padding: 25px; 
+	text-decoration: none;
+
+}
+nav ul li a{
+	font-size: 20px;
+	
+}
+nav ul li a:hover{
+	transition: 1s;
+	color: white;
+	text-decoration: none;
+	border-radius: 30px;
+	background: red;
+	
+	
+}
+/* header part END */ 
+/* Integer part start */ 
+.integer{
+	width: 100%;
+	float: left;
+	background:url(../img/template.png);
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+}
+.three{
+	margin-top: 200px;
+}
+	
+.three h3{
+	margin-top:100px;
+	text-align: center;
+	color: cyan;
+}
+.three p{
+	
+	text-align: center;
+	color:cyan;
+	font-family: 'Teko', sans-serif;
+
+}
+.four{
+	text-align: center;
+	margin-top: 20px;
+}
+.four h1{
+	color: white;
+	margin-top: 20px;
+	
+	font-family: 'Teko', sans-serif;
+}
+.four p{
+	color: white;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 15px;
+	
+	font-family: 'Teko', sans-serif;
+}
+.five{
+	text-align: center;
+}
+.btn-one{
+	border-radius: 40px;
+	background: white;
+	color: black;
+	padding:7px 50px;
+	margin: 50px 0 100px;
+
+}
+/* integer  part END */ 
+/* Ournews part start */
+.ournews{
+	width: 100%;
+	float: left;
+	background:#EDEFF1;
+} 
+.six{
+	text-align: center;
+
+}
+.seven{
+	text-align: center;
+}
+.six h3{
+	color: gray;
+	margin: 50px 0;
+}
+.seven h4{
+	text-align: center;
+	color: black;
+	margin-top: 20px;
+	
+	font-family: 'Teko', sans-serif;
+}
+.seven p{
+	color: black;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 12px;
+	text-align: center;
+	
+	font-family: 'Teko', sans-serif;
+}
+.btn-two{
+	border-radius: 40px;
+	background: white;
+	color: black;
+	padding:7px 50px;
+	margin: 30px 0 70px;
+	
+	border: 0 solid white;
+}
+/* Ournews part END */
+/* newsletter part start */
+.newsletter{
+	width: 100%;
+	float: left;
+	background:url(../img/seven.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:bottom;
+	
+}
+.overlay{
+	width: 100%;
+	float: left;
+	background: #00999966;
+}
+.Eight{
+	text-align: center;
+}
+.Eight h5{
+	margin-top: 50px;
+	color: white;
+	font-size: 30px;
+}
+.Eight p{
+	color: white;
+	font-size: 12px;
+	font-family: 'Teko', sans-serif;
+	margin-bottom: 40px;
+}
+.btn-three{
+	border-radius: 40px;
+	background:transparent;
+	color: white;
+	padding:5px 100px 5px 15px;
+	text-align:right;
+	border: 0.4px solid white;
+	position: relative;
+	float: left;
+	margin-bottom: 80px;
+}
+.btn-four{
+	border-radius: 20px;
+	background:white;
+	color:maroon;
+	padding:5px 80px 5px 10px;
+
+
+	
+	border: 0.4px solid white;
+	position: absolute;
+	
+}
+/* newsletter part End */
+/* Dollar part start */
+.dolor{
+	width: 100%;
+	float: left;
+	background:#FFFFFF;
+}
+.Nine h6{
+	margin-top: 60px;
+	font-weight: bolder;
+	color: black;
+	font-size: x-large;
+}
+.Nine p{
+	margin-top: 10px;
+	font-weight: bold;
+	color: black;
+	font-size: small;
+}
+.btn-five{
+	border-radius: 40px;
+	background: red;
+	color:white;
+	padding:7px 50px;
+	margin: 30px 0 70px;
+	border: 0 solid transparent;
+	}
+	.area-one{
+		margin-top: 60px;
+		width: 100%;
+		height: 300px;
+	}
+	.Ten h6{
+	margin-top: 60px;
+	font-weight: bolder;
+	color: black;
+	font-size: x-large;
+}
+.Ten p{
+	margin-top: 10px;
+	font-weight: bold;
+	color: black;
+	font-size: small;
+}
+.btn-six{
+	border-radius: 40px;
+	background:indigo;
+	color:white;
+	padding:7px 50px;
+	margin: 30px 0 70px;
+	border: 0 solid transparent;
+	}
+	.area-two{
+		margin: 60px 0;
+		width: 100%;
+		height: 300px;
+	}
+/* Dollar part END */
+
+
+/* Menu part start */
+.menu{
+	width: 100%;
+	float: left;
+	background:#D75D0E;
+}
+.eleven{
+	margin: 100px 0;
+}
+
+.eleven nav ul li{
+	display: block;
+	line-height: 0.5px;
+	padding: 2px 0 ;
+
+
+	
+}
+.eleven nav ul li a{
+	color: white;
+	font-size: 15px;
+	font-family: 'Teko', sans-serif;
+
+}
+/* Menu part End */
+/*footer part start*/
+footer{
+	width: 100%;
+	float: left;
+	background: url(../img/eight.png);
+	background-size: cover;
+	background-position:top;
+	background-repeat: no-repeat;
+}
+.twelve p{
+	color: white;
+	margin: 80px 0 150px;
+	font-size:12px;
+	font-family:'Teko', sans-serif
+    
+	
+}
+/*footer part END */
+
+
